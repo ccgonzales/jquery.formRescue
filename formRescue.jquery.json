@@ -1,0 +1,26 @@
+{
+  "name": "formRescue",
+  "title": "Form Rescue",
+  "description": "Catches unsaved form data and warns the user.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cgonzales/jquery.formRescue",
+  "author": {
+    "name": "Christopher Gonzales",
+    "url": "http://www.ccgonzales.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cgonzales/jquery.formRescue.git"
+  },
+  "bugs": "https://github.com/cgonzales/jquery.formRescue/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cgonzales/jquery.formRescue/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
