@@ -15,7 +15,8 @@ In your web page:
 <script src="dist/formRescue.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $.plugin('formRescue', FormRescue);
+  $('#myForm').formRescue([options]);
 });
 </script>
 ```
